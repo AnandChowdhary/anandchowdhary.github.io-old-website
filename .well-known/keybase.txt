@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/anandchowdhary
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://anandchowdhary.com
+  * I am anandchowdhary (https://keybase.io/anandchowdhary) on keybase.
+  * I have a public key ASBN1gN2uMEdRGO-rEzaXmjNcUlZPat4y7prKw1vtpun-Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ce3fed7590fc13ef8a975d3d618e8b839bb5ed66463ad8686f609e91c656e5440a",
+      "host": "keybase.io",
+      "kid": "01204dd60376b8c11d4463beac4cda5e68cd7149593dab78cbba6b2b0d6fb69ba7f90a",
+      "uid": "1c23abaf51399c6b61b1837c89aa0f19",
+      "username": "anandchowdhary"
+    },
+    "merkle_root": {
+      "ctime": 1560930448,
+      "hash": "3199e8a0b5278db437ddc4ff58d9cb7be30595ec46141d8359976cac82196aec2cde8b00dad20a90bde7fa7d3a81e4a6088097c93d361866b78c36e4935caa35",
+      "hash_meta": "324b87239eb7f116e8ca8654bc0ae26475bc05773e3bb2864225e1aa2195af85",
+      "seqno": 5599570
+    },
+    "service": {
+      "entropy": "bo8SMZX1n/6GO7JXrwhS46q9",
+      "hostname": "anandchowdhary.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.1.0"
+  },
+  "ctime": 1560930456,
+  "expire_in": 504576000,
+  "prev": "622da2cf34cb517e333058bc380c897d1820d7df605f7df55cfb00b0b1ac902e",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgTdYDdrjBHURjvqxM2l5ozXFJWT2reMu6aysNb7abp/kKp3BheWxvYWTESpcCCsQgYi2izzTLUX4zMFi8OAyJfRgg199gX331XPsAsLGskC7EIDFnL70oDlQ1/ve5hhVwv74U7l2bA3nU2065XYN8hoq2AgHCo3NpZ8RAASdqNSBHpKAH6Q8PwW0690TOwZUzgBhshrqy7yAqUBCCeyiNL7qYpbgSf6q4ySi8rxt6RPtGu9VteM2bSGZHDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMXscmojtEEnXTtbaat4zYMzyi0rgZ8HMeqTSynTqYL2o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/anandchowdhary
+
+==================================================================
